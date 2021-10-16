@@ -73,7 +73,7 @@ sections:
       semper libero id sodales.
     reviews:
       - author: Ruud Molenaar
-        avatar: images/review1.jpg
+        avatar: /images/42069065_309321276519865_8877091909227511808_n.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
