@@ -30,7 +30,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions:
-          - label: Learn More
+          - label: Meer informatie
             url: /features
             style: secondary
             has_icon: true
