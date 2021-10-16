@@ -98,6 +98,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+    title: "Voor meer informatie, vragen en/of aanmeldingen kun je altijd vrijblijvend contact met ons op nemen.\U0001F44B"
   - section_id: recent-posts
     type: section_posts
     background: gray
