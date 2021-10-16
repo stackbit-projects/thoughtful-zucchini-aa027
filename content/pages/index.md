@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/hero-c1a9d650.png
     image_alt: App preview
     title: ALL STARS BEGELEIDING
     content: >
