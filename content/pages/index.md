@@ -6,9 +6,12 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: All Stars Begeleiding
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+      ad minim veniam, quis.
     actions:
       - label: Learn More
         url: /features
