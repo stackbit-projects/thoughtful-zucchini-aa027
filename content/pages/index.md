@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Vakanties
-        image: images/feature3.png
+        image: /images/feature3-bdb30ec6.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
