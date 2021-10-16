@@ -44,7 +44,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions:
-          - label: Learn More
+          - label: Meer informatie
             url: /features
             style: secondary
             has_icon: true
