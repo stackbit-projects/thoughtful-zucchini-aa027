@@ -94,7 +94,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     actions:
-      - label: Get Starte
+      - label: f
         url: /signup
         style: primary
     title: "Voor meer informatie, vragen en/of aanmeldingen kun je altijd vrijblijvend contact met ons op nemen.\U0001F44B"
