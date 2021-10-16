@@ -43,7 +43,7 @@
                 "title": "Organisatie",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Over ons",
                         "url": "/about",
                         "style": "link"
                     },
