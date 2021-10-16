@@ -24,7 +24,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Neem contact op",
                 "url": "/signup",
                 "style": "primary"
             }
