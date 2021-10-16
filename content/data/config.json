@@ -102,7 +102,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Terms of Service",
+                "label": "Algemene voorwaarden",
                 "url": "/terms-of-service",
                 "style": "link"
             },
