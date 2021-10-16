@@ -11,7 +11,7 @@ sections:
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis.
     actions:
-      - label: Learn More
+      - label: Meer informatie
         url: /features
         style: primary
   - section_id: features
